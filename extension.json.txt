@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "Plugin-P2I",
+    "description": "Plugin P2I pour PyRevit",
+    "author": "Antoine Levert",
+    "author_profile": "https://github.com/Antoinelvt/Plugin-P2I",
+    "url": "https://github.com/Antoinelvt/Plugin-P2I.git",
+    "website": "https://github.com/Antoinelvt/Plugin-P2I",
+    "image": "",
+    "dependencies": []
+}
